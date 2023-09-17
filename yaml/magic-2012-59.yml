@@ -1,0 +1,115 @@
+---
+object: card
+id: 47c6b294-3840-4007-a4e3-67309f6581dd
+oracle_id: b6c8ac69-daa7-4e2e-a1d9-439731a81870
+multiverse_ids:
+- 220244
+mtgo_id: 41487
+mtgo_foil_id: 41488
+tcgplayer_id: 47545
+cardmarket_id: 247842
+name: Jace's Archivist
+lang: en
+released_at: '2011-07-15'
+uri: https://api.scryfall.com/cards/47c6b294-3840-4007-a4e3-67309f6581dd
+scryfall_uri: https://scryfall.com/card/m12/59/jaces-archivist?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/4/7/47c6b294-3840-4007-a4e3-67309f6581dd.jpg?1562641125
+  normal: https://cards.scryfall.io/normal/front/4/7/47c6b294-3840-4007-a4e3-67309f6581dd.jpg?1562641125
+  large: https://cards.scryfall.io/large/front/4/7/47c6b294-3840-4007-a4e3-67309f6581dd.jpg?1562641125
+  png: https://cards.scryfall.io/png/front/4/7/47c6b294-3840-4007-a4e3-67309f6581dd.png?1562641125
+  art_crop: https://cards.scryfall.io/art_crop/front/4/7/47c6b294-3840-4007-a4e3-67309f6581dd.jpg?1562641125
+  border_crop: https://cards.scryfall.io/border_crop/front/4/7/47c6b294-3840-4007-a4e3-67309f6581dd.jpg?1562641125
+mana_cost: "{1}{U}{U}"
+cmc: 3.0
+type_line: Creature — Vedalken Wizard
+oracle_text: "{U}, {T}: Each player discards their hand, then draws cards equal to
+  the greatest number of cards a player discarded this way."
+power: '2'
+toughness: '2'
+colors:
+- U
+color_identity:
+- U
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 5cdd2643-229c-4441-a62a-c34e4b531e1c
+set: m12
+set_name: Magic 2012
+set_type: core
+set_uri: https://api.scryfall.com/sets/5cdd2643-229c-4441-a62a-c34e4b531e1c
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Am12&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/m12?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/47c6b294-3840-4007-a4e3-67309f6581dd/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ab6c8ac69-daa7-4e2e-a1d9-439731a81870&unique=prints
+collector_number: '59'
+digital: false
+rarity: rare
+flavor_text: '"This is a sacred duty. Master Beleren''s trust has bought an eternity
+  of my loyalty."'
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: James Ryman
+artist_ids:
+- 3852bbc9-11c0-4fe3-8722-a06ad7e2bcc5
+illustration_id: 25536e7f-9439-4e61-8f6e-557f3a6e2652
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 1367
+penny_rank: 10405
+prices:
+  usd: '3.86'
+  usd_foil: '11.86'
+  usd_etched: 
+  eur: '3.22'
+  eur_foil: '9.31'
+  tix: '0.02'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220244
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Jace%27s+Archivist&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Jace%27s+Archivist&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Jace%27s+Archivist
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/47545?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Jace%27s+Archivist&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/41487?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

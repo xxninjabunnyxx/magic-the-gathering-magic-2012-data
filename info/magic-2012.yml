@@ -1,0 +1,21 @@
+---
+object: set
+id: 5cdd2643-229c-4441-a62a-c34e4b531e1c
+code: m12
+mtgo_code: m12
+arena_code: m12
+tcgplayer_id: 70
+name: Magic 2012
+uri: https://api.scryfall.com/sets/5cdd2643-229c-4441-a62a-c34e4b531e1c
+scryfall_uri: https://scryfall.com/sets/m12
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Am12&unique=prints
+released_at: '2011-07-15'
+set_type: core
+card_count: 249
+printed_size: 249
+digital: false
+nonfoil_only: false
+foil_only: false
+block_code: lea
+block: Core Set
+icon_svg_uri: https://svgs.scryfall.io/sets/m12.svg?1694404800

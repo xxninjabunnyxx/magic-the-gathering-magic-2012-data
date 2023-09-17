@@ -1,0 +1,109 @@
+---
+object: card
+id: d08e9aad-3b06-4cef-8b91-0087bc5881f8
+oracle_id: bc71ebf6-2056-41f7-be35-b2e5c34afa99
+multiverse_ids:
+- 244334
+mtgo_id: 41567
+mtgo_foil_id: 41568
+tcgplayer_id: 47719
+cardmarket_id: 248038
+name: Plains
+lang: en
+released_at: '2011-07-15'
+uri: https://api.scryfall.com/cards/d08e9aad-3b06-4cef-8b91-0087bc5881f8
+scryfall_uri: https://scryfall.com/card/m12/232/plains?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/d/0/d08e9aad-3b06-4cef-8b91-0087bc5881f8.jpg?1562660698
+  normal: https://cards.scryfall.io/normal/front/d/0/d08e9aad-3b06-4cef-8b91-0087bc5881f8.jpg?1562660698
+  large: https://cards.scryfall.io/large/front/d/0/d08e9aad-3b06-4cef-8b91-0087bc5881f8.jpg?1562660698
+  png: https://cards.scryfall.io/png/front/d/0/d08e9aad-3b06-4cef-8b91-0087bc5881f8.png?1562660698
+  art_crop: https://cards.scryfall.io/art_crop/front/d/0/d08e9aad-3b06-4cef-8b91-0087bc5881f8.jpg?1562660698
+  border_crop: https://cards.scryfall.io/border_crop/front/d/0/d08e9aad-3b06-4cef-8b91-0087bc5881f8.jpg?1562660698
+mana_cost: ''
+cmc: 0.0
+type_line: Basic Land — Plains
+oracle_text: "({T}: Add {W}.)"
+colors: []
+color_identity:
+- W
+keywords: []
+produced_mana:
+- W
+legalities:
+  standard: legal
+  future: legal
+  historic: legal
+  gladiator: legal
+  pioneer: legal
+  explorer: legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: legal
+  historicbrawl: legal
+  alchemy: legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 5cdd2643-229c-4441-a62a-c34e4b531e1c
+set: m12
+set_name: Magic 2012
+set_type: core
+set_uri: https://api.scryfall.com/sets/5cdd2643-229c-4441-a62a-c34e4b531e1c
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Am12&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/m12?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/d08e9aad-3b06-4cef-8b91-0087bc5881f8/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Abc71ebf6-2056-41f7-be35-b2e5c34afa99&unique=prints
+collector_number: '232'
+digital: false
+rarity: common
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Howard Lyon
+artist_ids:
+- 6dd06426-59fe-4b9c-aad5-6da8446a5c3d
+illustration_id: eacd88eb-e9f6-4772-81d3-887e94e4034e
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+prices:
+  usd: '0.10'
+  usd_foil: '0.62'
+  usd_etched: 
+  eur: '0.17'
+  eur_foil: '0.50'
+  tix: '0.04'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=244334
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Plains&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Plains&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Plains
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/47719?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Plains&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/41567?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

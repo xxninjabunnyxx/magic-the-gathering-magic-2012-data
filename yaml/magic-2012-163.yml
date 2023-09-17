@@ -1,0 +1,127 @@
+---
+object: card
+id: 9e4900b0-f934-42d9-92fb-0bb16d2e8bb1
+oracle_id: 8b25f353-0798-4a03-a928-6a701a919468
+multiverse_ids:
+- 220283
+mtgo_id: 41459
+mtgo_foil_id: 41460
+tcgplayer_id: 47160
+cardmarket_id: 247923
+name: Arachnus Web
+lang: en
+released_at: '2011-07-15'
+uri: https://api.scryfall.com/cards/9e4900b0-f934-42d9-92fb-0bb16d2e8bb1
+scryfall_uri: https://scryfall.com/card/m12/163/arachnus-web?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/9/e/9e4900b0-f934-42d9-92fb-0bb16d2e8bb1.jpg?1562653072
+  normal: https://cards.scryfall.io/normal/front/9/e/9e4900b0-f934-42d9-92fb-0bb16d2e8bb1.jpg?1562653072
+  large: https://cards.scryfall.io/large/front/9/e/9e4900b0-f934-42d9-92fb-0bb16d2e8bb1.jpg?1562653072
+  png: https://cards.scryfall.io/png/front/9/e/9e4900b0-f934-42d9-92fb-0bb16d2e8bb1.png?1562653072
+  art_crop: https://cards.scryfall.io/art_crop/front/9/e/9e4900b0-f934-42d9-92fb-0bb16d2e8bb1.jpg?1562653072
+  border_crop: https://cards.scryfall.io/border_crop/front/9/e/9e4900b0-f934-42d9-92fb-0bb16d2e8bb1.jpg?1562653072
+mana_cost: "{2}{G}"
+cmc: 3.0
+type_line: Enchantment — Aura
+oracle_text: |-
+  Enchant creature
+  Enchanted creature can't attack or block, and its activated abilities can't be activated.
+  At the beginning of the end step, if enchanted creature's power is 4 or greater, destroy Arachnus Web.
+colors:
+- G
+color_identity:
+- G
+keywords:
+- Enchant
+all_parts:
+- object: related_card
+  id: 9e4900b0-f934-42d9-92fb-0bb16d2e8bb1
+  component: combo_piece
+  name: Arachnus Web
+  type_line: Enchantment — Aura
+  uri: https://api.scryfall.com/cards/9e4900b0-f934-42d9-92fb-0bb16d2e8bb1
+- object: related_card
+  id: 23321b80-d7e7-48fd-985d-1e9dc3adcd35
+  component: combo_piece
+  name: Arachnus Spinner
+  type_line: Creature — Spider
+  uri: https://api.scryfall.com/cards/23321b80-d7e7-48fd-985d-1e9dc3adcd35
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 5cdd2643-229c-4441-a62a-c34e4b531e1c
+set: m12
+set_name: Magic 2012
+set_type: core
+set_uri: https://api.scryfall.com/sets/5cdd2643-229c-4441-a62a-c34e4b531e1c
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Am12&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/m12?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/9e4900b0-f934-42d9-92fb-0bb16d2e8bb1/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A8b25f353-0798-4a03-a928-6a701a919468&unique=prints
+collector_number: '163'
+digital: false
+rarity: common
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Karl Kopinski
+artist_ids:
+- 0fad2c48-a56e-4a0b-b512-224f6f238f20
+illustration_id: 0c2df803-c116-49ba-86a4-629199db4745
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 9638
+penny_rank: 9333
+prices:
+  usd: '0.09'
+  usd_foil: '0.28'
+  usd_etched: 
+  eur: '0.05'
+  eur_foil: '0.20'
+  tix: '0.03'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220283
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Arachnus+Web&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Arachnus+Web&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Arachnus+Web
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/47160?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Arachnus+Web&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/41459?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

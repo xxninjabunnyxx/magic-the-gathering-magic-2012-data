@@ -1,0 +1,115 @@
+---
+object: card
+id: 1af92296-455a-425e-9397-a96d09937767
+oracle_id: d8fd7a34-8418-4e98-b79b-119c4348c667
+multiverse_ids:
+- 234075
+mtgo_id: 41135
+mtgo_foil_id: 41136
+tcgplayer_id: 47544
+cardmarket_id: 247910
+name: Incinerate
+lang: en
+released_at: '2011-07-15'
+uri: https://api.scryfall.com/cards/1af92296-455a-425e-9397-a96d09937767
+scryfall_uri: https://scryfall.com/card/m12/146/incinerate?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/1/a/1af92296-455a-425e-9397-a96d09937767.jpg?1562634540
+  normal: https://cards.scryfall.io/normal/front/1/a/1af92296-455a-425e-9397-a96d09937767.jpg?1562634540
+  large: https://cards.scryfall.io/large/front/1/a/1af92296-455a-425e-9397-a96d09937767.jpg?1562634540
+  png: https://cards.scryfall.io/png/front/1/a/1af92296-455a-425e-9397-a96d09937767.png?1562634540
+  art_crop: https://cards.scryfall.io/art_crop/front/1/a/1af92296-455a-425e-9397-a96d09937767.jpg?1562634540
+  border_crop: https://cards.scryfall.io/border_crop/front/1/a/1af92296-455a-425e-9397-a96d09937767.jpg?1562634540
+mana_cost: "{1}{R}"
+cmc: 2.0
+type_line: Instant
+oracle_text: Incinerate deals 3 damage to any target. A creature dealt damage this
+  way can't be regenerated this turn.
+colors:
+- R
+color_identity:
+- R
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 5cdd2643-229c-4441-a62a-c34e4b531e1c
+set: m12
+set_name: Magic 2012
+set_type: core
+set_uri: https://api.scryfall.com/sets/5cdd2643-229c-4441-a62a-c34e4b531e1c
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Am12&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/m12?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/1af92296-455a-425e-9397-a96d09937767/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ad8fd7a34-8418-4e98-b79b-119c4348c667&unique=prints
+collector_number: '146'
+digital: false
+rarity: common
+flavor_text: |-
+  "Spontaneous combustion is a myth. If you burst into flame, someone wanted you to."
+  —Chandra Nalaar
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Zoltan Boros & Gabor Szikszai
+artist_ids:
+- 1885e6cb-c827-4896-994e-3d0a027d602f
+- 44c3877f-8771-43dc-9e40-f4c765f59d2e
+illustration_id: 020f4c92-3c44-4496-8a8a-f12025cea454
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 10289
+penny_rank: 119
+prices:
+  usd: '0.07'
+  usd_foil: '0.94'
+  usd_etched: 
+  eur: '0.10'
+  eur_foil: '0.99'
+  tix: '0.03'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=234075
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Incinerate&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Incinerate&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Incinerate
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/47544?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Incinerate&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/41135?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

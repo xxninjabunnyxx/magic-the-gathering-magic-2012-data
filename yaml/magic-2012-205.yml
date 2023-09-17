@@ -1,0 +1,109 @@
+---
+object: card
+id: 3f56b129-fe2d-4061-b1c9-f1f5a4db564a
+oracle_id: ee38377f-8d3a-402e-a5d7-a01cfe3a5322
+multiverse_ids:
+- 221522
+mtgo_id: 41593
+mtgo_foil_id: 41594
+tcgplayer_id: 47541
+cardmarket_id: 247952
+name: Demon's Horn
+lang: en
+released_at: '2011-07-15'
+uri: https://api.scryfall.com/cards/3f56b129-fe2d-4061-b1c9-f1f5a4db564a
+scryfall_uri: https://scryfall.com/card/m12/205/demons-horn?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/3/f/3f56b129-fe2d-4061-b1c9-f1f5a4db564a.jpg?1562640106
+  normal: https://cards.scryfall.io/normal/front/3/f/3f56b129-fe2d-4061-b1c9-f1f5a4db564a.jpg?1562640106
+  large: https://cards.scryfall.io/large/front/3/f/3f56b129-fe2d-4061-b1c9-f1f5a4db564a.jpg?1562640106
+  png: https://cards.scryfall.io/png/front/3/f/3f56b129-fe2d-4061-b1c9-f1f5a4db564a.png?1562640106
+  art_crop: https://cards.scryfall.io/art_crop/front/3/f/3f56b129-fe2d-4061-b1c9-f1f5a4db564a.jpg?1562640106
+  border_crop: https://cards.scryfall.io/border_crop/front/3/f/3f56b129-fe2d-4061-b1c9-f1f5a4db564a.jpg?1562640106
+mana_cost: "{2}"
+cmc: 2.0
+type_line: Artifact
+oracle_text: Whenever a player casts a black spell, you may gain 1 life.
+colors: []
+color_identity: []
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 5cdd2643-229c-4441-a62a-c34e4b531e1c
+set: m12
+set_name: Magic 2012
+set_type: core
+set_uri: https://api.scryfall.com/sets/5cdd2643-229c-4441-a62a-c34e4b531e1c
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Am12&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/m12?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/3f56b129-fe2d-4061-b1c9-f1f5a4db564a/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aee38377f-8d3a-402e-a5d7-a01cfe3a5322&unique=prints
+collector_number: '205'
+digital: false
+rarity: uncommon
+flavor_text: Its curve mimics the twists of life and death.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Alan Pollack
+artist_ids:
+- 70c20ea3-5ad6-4082-a337-6e994ae5828e
+illustration_id: 2f405558-101e-4d1f-a13a-3e4516572665
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 5197
+penny_rank: 10701
+prices:
+  usd: '0.19'
+  usd_foil: '1.05'
+  usd_etched: 
+  eur: '0.05'
+  eur_foil: '0.25'
+  tix: '0.03'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=221522
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Demon%27s+Horn&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Demon%27s+Horn&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Demon%27s+Horn
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/47541?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Demon%27s+Horn&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/41593?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
